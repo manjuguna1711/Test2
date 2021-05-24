@@ -5,10 +5,13 @@
 #include<conio.h>
 #include<time.h>
 #include<stdlib.h>
+
 using namespace std;
+
 //Github Test
 //new comment Test
 //player structure 
+
 struct Player
 {
     char name[30];
@@ -241,6 +244,8 @@ void play(struct Player* player1, struct Player* player2, struct Dice* dice1, st
     } while (player1->total < MaxScore && player2->total < MaxScore);
 }
 
+
+//Dice roll funcion definiton
 struct Dice* Roll_dice(struct Dice* d)
 {
    // srand(time(0));
