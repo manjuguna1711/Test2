@@ -1,0 +1,4 @@
+﻿  DiceGame.cpp
+C:\Users\093585\Downloads\DiceGame\DiceGame\DiceGame.cpp(180,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\093585\Downloads\DiceGame\DiceGame\DiceGame.cpp(206,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DiceGame.vcxproj -> C:\Users\093585\Downloads\DiceGame\Debug\DiceGame.exe
